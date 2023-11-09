@@ -1,5 +1,3 @@
-package tutorial;
-
 import javax.swing.JOptionPane;
 
 public class Ejercicio7 {

@@ -1,4 +1,3 @@
-package tutorial;
 import javax.swing.JOptionPane;
 import java.lang.Math;
 
